@@ -25,9 +25,12 @@ function score()
     {
       score++
       // MAKE ANSWER GREEN
+
+      document.getElementById(i).style.backgroundColor = "green";
     }
     else {
     // MAKE ANSWER RED
+    document.getElementById(i).style.backgroundColor = "red";
     }
   }
   return score;
