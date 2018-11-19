@@ -1,0 +1,43 @@
+body
+{
+background-image: url(https://nrgjo1ew3uj371d7gd9zm8r9-wpengine.netdna-ssl.com/wp-content/themes/wftda/dist/images/default-featured-image.jpg);
+background-repeat: no-repeat;
+background-size:cover;
+background-color: black;
+}
+
+.heading
+{
+  text-align: center;
+
+}
+
+div
+{
+outline: 2px solid black;
+text-align: center;
+background-color: grey;
+margin-left: 100px;
+margin-right: 100px
+}
+
+h1
+{
+  text-align: center;
+  font-size: 36px;
+}
+div.submit
+{
+  outline: none;
+  background: none;
+  margin-top: 20px;
+}
+
+.worng
+{
+  background-color: red;
+}
+.right
+{
+  background-color: green;
+}
